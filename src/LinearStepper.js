@@ -302,7 +302,7 @@ export function GetStepContent(step) {
             fullWidth
             margin="normal"
             name="pinCode"
-            value={user.pincode}
+            value={user.pinCode}
             onChange={handleInputs}
           />
           </Grid>

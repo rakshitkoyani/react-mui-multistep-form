@@ -24,4 +24,9 @@ Rakshit koyani
 
 ### Live demo
 
-https://react-mui-form.netlify.app/
+https://react-multi-stepper-form.netlify.app/
+
+### output
+
+![page1](./src/output%20image/1.jpeg)
+![page2](./src/output%20image/2.jpeg)
